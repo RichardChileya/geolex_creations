@@ -502,12 +502,12 @@ export default function Home() {
           <div className="section-tag">Get In Touch</div>
           <h2 className="section-title">Ready to Build Something Great?</h2>
           <p>
-            Leave your email and we'll reach out to discuss how Geolex can help
+            Leave your email and we will reach out to discuss how Geolex can help
             your business grow.
           </p>
           <div className="cta-form">
             <input type="email" placeholder="your@email.com" />
-            <button type="button">Let's Talk</button>
+            <button type="button">Let Us Talk</button>
           </div>
         </div>
       </section>
